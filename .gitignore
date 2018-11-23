@@ -1,0 +1,4 @@
+# Textdateien ignorieren
+*.txt
+#class Dateien ignorieren
+*.class
